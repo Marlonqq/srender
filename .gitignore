@@ -1,0 +1,4 @@
+#Ignore gitignore
+x64/
+.vs/
+Debug/
